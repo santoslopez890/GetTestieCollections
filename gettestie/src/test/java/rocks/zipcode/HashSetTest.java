@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 import static org.junit.Assert.*;
 
-public class HashSet {
+public class HashSetTest {
     private java.util.HashSet<Person> testHashSet;
     @org.junit.Before
     public void setUp() throws Exception {

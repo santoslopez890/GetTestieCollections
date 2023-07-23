@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 import java.util.Stack;
 import java.util.HashSet;
-public class TestStack {
+public class StackTest {
 
 
 

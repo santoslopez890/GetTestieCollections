@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class ArrayList {
+public class ArrayListTest {
     private java.util.ArrayList<Integer> arrayList;
 
     @org.junit.Before
